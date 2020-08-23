@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey folks!</h1>
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<p>Welcome to my page! </br> I'm Parag, a Fullstack developer currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>The Bay Area, California</b>. </p>
+<p>Welcome to my page! </br> I'm Parag, a Fullstack developer currently living in <b>The Bay Area, California</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
