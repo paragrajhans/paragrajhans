@@ -1,6 +1,6 @@
 <h1> Hey folks!</h1>
 
-<p>Welcome to my page! </br> I'm Parag, a Fullstack developer, primarily focused on  <b>Front-End</b>. Actively looking for Full-Time Software Development Opportunities.</p>
+<p> I'm Parag, a Fullstack developer, primarily focused on <b>Front-End</b>. I am actively looking for Full-Time Software Development Opportunities.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
